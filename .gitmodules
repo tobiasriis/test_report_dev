@@ -1,0 +1,4 @@
+[submodule "tobiasriis/custom_package_barcode"]
+	path = tobiasriis/custom_package_barcode
+	url = git@github.com:tobiasriis/custom_package_barcode.git
+	branch = main
